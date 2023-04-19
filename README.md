@@ -1,4 +1,4 @@
-# Repositório com o bjetivo de estudar os recursos de git com auxilio dos seguintes cursos da Alura:
+# Repositório com o objetivo de estudar os recursos de git com auxilio dos seguintes cursos da Alura:
 
 - Git e GitHub: repositorios, commit e versões
 - Git e GitHub: controle e compartilhe seu código
